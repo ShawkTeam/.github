@@ -12,7 +12,7 @@
 
 We are a development team based in Azerbaijan and Turkiye. We maintain Custom ROM's and we also work on other projects.
 
-Running into a problem, need help with something or would like to suggest something? [Join our Telegram](https://t.me/shawkbuilddiscussion). 
+Running into a problem, need help with something or would like to suggest something? [Join our discussion Telegram](https://t.me/shawkbuilddiscussion). 
 
 
 ## Features
