@@ -28,8 +28,8 @@ Running into a problem, need help with something or would like to suggest someth
 
   munir.nasibzade@proton.me
   
-- POCO X3 Pro & Project Development Team - eniscd
+- Project Development Team - enis26
 
-  [Telegram](https://t.me/eniscd)
+  [Telegram](https://t.me/eniss26)
 
   
