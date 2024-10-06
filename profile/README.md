@@ -9,7 +9,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
 
-We are a development team based in Azerbaijan and Turkiye. We maintain Custom ROM's and we also work on other projects.
+We are a development team based in Azerbaijan & Turkiye. We maintain Custom ROMs and we also work on other projects.
 
 Running into a problem, need help with something or would like to suggest something? [Join our discussion Telegram](https://t.me/shawkbuilddiscussion). 
 
@@ -18,9 +18,9 @@ Running into a problem, need help with something or would like to suggest someth
 
 - Active on maintaining Custom ROM's for devices
 - Fast on responding to questions or fixing bugs
-- Experienced developers
+- Experienced ROM builders
  
- ## Contact the developers
+ ## Contact the maintainers
 
 - Lead Developer - eklerismunir
 
