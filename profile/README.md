@@ -21,18 +21,4 @@ Running into a problem, need help with something or would like to suggest someth
 
 - Active on maintaining Custom ROM's for devices
 - Fast on responding to questions or fixing bugs
-- Experienced ROM builders
- 
- ## Contact the maintainers
-
-- Lead Developer - eklerismunir
-
-  [Telegram](https://t.me/eklerismunir)
-
-  munir.nasibzade@proton.me
-  
-- Project Development Team - enis26
-
-  [Telegram](https://t.me/eniss26)
-
-  
+- Experienced maintainers,developers
