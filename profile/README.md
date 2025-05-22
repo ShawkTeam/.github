@@ -14,11 +14,11 @@
 
 We are a development team based in Azerbaijan & Turkiye. We maintain Custom ROMs and we also work on other projects.
 
-Running into a problem, need help with something or would like to suggest something? [Join our discussion Telegram](https://t.me/shawkbuilddiscussion). 
+Running into a problem, need help with something or would like to suggest something? [Join our Telegram discussion group!](https://t.me/shawkbuilddiscussion). 
 
 
-## Features
+## Features that we offer
 
-- Active on maintaining Custom ROM's for devices
-- Fast on responding to questions or fixing bugs
-- Experienced maintainers,developers
+- Active maintaining devices, and monthly builds. 
+- Stable experience, no bugs or bugs usually get fixed quickly.
+- Experienced maintainers, developers
